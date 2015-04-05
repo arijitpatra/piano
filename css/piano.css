@@ -289,7 +289,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 			position:relative;
 			text-align:center;
 			font-family: 'Open Sans',segoe ui light;
-			font-size:85%;
+			font-size:13px;
 			width:100%;
 			display:inline-block;
 			line-height:165%;
@@ -299,7 +299,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 			position:relative;
 			text-align:center;
 			font-family: 'Open Sans',segoe ui light;
-			font-size:12px;
+			font-size:11px;
 			width:100%;
 			color:#075a4a;
 			display:inline-block
